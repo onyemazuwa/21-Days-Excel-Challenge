@@ -52,6 +52,12 @@ See [`data/`](./data) for the raw and cleaned versions.
 
 Daily findings and writeups live in [`logs/`](./logs), one file per day.
 
+## Companion ebook: Excel Formulas Made Easy
+
+Every day of this challenge doubles as a chapter draft for **Excel Formulas Made Easy** — a beginner-friendly ebook that teaches Excel through this exact real, messy dataset instead of generic examples. Chapters live in [`ebook/`](./ebook), and each one follows the same structure: Concept → Method → Findings → Common Mistakes → Key Takeaways → Interview Corner → Exercise.
+
+- [Chapter 1: The Data Audit](./ebook/Chapter_01_The_Data_Audit.md)
+
 ## About
 
 Part of an ongoing self-directed data analytics journey by [@onyemazuwa](https://github.com/onyemazuwa) — also documented on TikTok and LinkedIn under **Nigeria By Numbers**.
